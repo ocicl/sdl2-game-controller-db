@@ -1,0 +1,9 @@
+* sdl2-game-controller-db
+
+Provides gamepad bindings for cl-sdl2.
+
+|---------+----------------------------------------------------------|
+| source  | git:https://github.com/cbaggers/sdl2-game-controller-db.git |
+| commit  | 335d2b6                                                  |
+| systems | sdl2-game-controller-db                                  |
+|---------+----------------------------------------------------------|
